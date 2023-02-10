@@ -19,3 +19,6 @@ def main ():
 if __name__ == '__main__':
     main()
     
+def reverse (num_list):
+    r_list = num_list[::-1]
+    return r_list     
